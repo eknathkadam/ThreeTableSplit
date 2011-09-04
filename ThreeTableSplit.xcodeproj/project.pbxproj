@@ -1,0 +1,265 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		132E0E1914136D330012C631 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 132E0E1414136D330012C631 /* MainViewController.m */; };
+		132E0E1A14136D330012C631 /* ThreeTableAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 132E0E1614136D330012C631 /* ThreeTableAppDelegate.m */; };
+		132E0E1B14136D330012C631 /* ThreeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 132E0E1814136D330012C631 /* ThreeTableViewController.m */; };
+		132E0E1D14136FCC0012C631 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 132E0E1C14136FCC0012C631 /* MainWindow.xib */; };
+		FF12FF1E13E3506F005BCBAF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF12FF1D13E3506F005BCBAF /* UIKit.framework */; };
+		FF12FF2013E3506F005BCBAF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF12FF1F13E3506F005BCBAF /* Foundation.framework */; };
+		FF12FF2213E3506F005BCBAF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF12FF2113E3506F005BCBAF /* CoreGraphics.framework */; };
+		FF12FF2A13E3506F005BCBAF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FF12FF2913E3506F005BCBAF /* main.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		132E0E1314136D330012C631 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		132E0E1414136D330012C631 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		132E0E1514136D330012C631 /* ThreeTableAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeTableAppDelegate.h; sourceTree = "<group>"; };
+		132E0E1614136D330012C631 /* ThreeTableAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeTableAppDelegate.m; sourceTree = "<group>"; };
+		132E0E1714136D330012C631 /* ThreeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeTableViewController.h; sourceTree = "<group>"; };
+		132E0E1814136D330012C631 /* ThreeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeTableViewController.m; sourceTree = "<group>"; };
+		132E0E1C14136FCC0012C631 /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		FF12FF1913E3506F005BCBAF /* ThreeTableSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThreeTableSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF12FF1D13E3506F005BCBAF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FF12FF1F13E3506F005BCBAF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FF12FF2113E3506F005BCBAF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FF12FF2513E3506F005BCBAF /* ThreeTableSplit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ThreeTableSplit-Info.plist"; sourceTree = "<group>"; };
+		FF12FF2913E3506F005BCBAF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FF12FF2B13E3506F005BCBAF /* ThreeTableSplit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ThreeTableSplit-Prefix.pch"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FF12FF1613E3506F005BCBAF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF12FF1E13E3506F005BCBAF /* UIKit.framework in Frameworks */,
+				FF12FF2013E3506F005BCBAF /* Foundation.framework in Frameworks */,
+				FF12FF2213E3506F005BCBAF /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FF12FF0E13E3506F005BCBAF = {
+			isa = PBXGroup;
+			children = (
+				FF12FF2313E3506F005BCBAF /* threetable */,
+				FF12FF1C13E3506F005BCBAF /* Frameworks */,
+				FF12FF1A13E3506F005BCBAF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FF12FF1A13E3506F005BCBAF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FF12FF1913E3506F005BCBAF /* ThreeTableSplit.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FF12FF1C13E3506F005BCBAF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FF12FF1D13E3506F005BCBAF /* UIKit.framework */,
+				FF12FF1F13E3506F005BCBAF /* Foundation.framework */,
+				FF12FF2113E3506F005BCBAF /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FF12FF2313E3506F005BCBAF /* threetable */ = {
+			isa = PBXGroup;
+			children = (
+				132E0E1314136D330012C631 /* MainViewController.h */,
+				132E0E1414136D330012C631 /* MainViewController.m */,
+				132E0E1514136D330012C631 /* ThreeTableAppDelegate.h */,
+				132E0E1614136D330012C631 /* ThreeTableAppDelegate.m */,
+				132E0E1714136D330012C631 /* ThreeTableViewController.h */,
+				132E0E1814136D330012C631 /* ThreeTableViewController.m */,
+				FF12FF2413E3506F005BCBAF /* Supporting Files */,
+			);
+			path = threetable;
+			sourceTree = "<group>";
+		};
+		FF12FF2413E3506F005BCBAF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				132E0E1C14136FCC0012C631 /* MainWindow.xib */,
+				FF12FF2513E3506F005BCBAF /* ThreeTableSplit-Info.plist */,
+				FF12FF2913E3506F005BCBAF /* main.m */,
+				FF12FF2B13E3506F005BCBAF /* ThreeTableSplit-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FF12FF1813E3506F005BCBAF /* ThreeTableSplit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF12FF3A13E3506F005BCBAF /* Build configuration list for PBXNativeTarget "ThreeTableSplit" */;
+			buildPhases = (
+				FF12FF1513E3506F005BCBAF /* Sources */,
+				FF12FF1613E3506F005BCBAF /* Frameworks */,
+				FF12FF1713E3506F005BCBAF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ThreeTableSplit;
+			productName = threetable;
+			productReference = FF12FF1913E3506F005BCBAF /* ThreeTableSplit.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FF12FF1013E3506F005BCBAF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "Webrich Software";
+			};
+			buildConfigurationList = FF12FF1313E3506F005BCBAF /* Build configuration list for PBXProject "ThreeTableSplit" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FF12FF0E13E3506F005BCBAF;
+			productRefGroup = FF12FF1A13E3506F005BCBAF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FF12FF1813E3506F005BCBAF /* ThreeTableSplit */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FF12FF1713E3506F005BCBAF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				132E0E1D14136FCC0012C631 /* MainWindow.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FF12FF1513E3506F005BCBAF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF12FF2A13E3506F005BCBAF /* main.m in Sources */,
+				132E0E1914136D330012C631 /* MainViewController.m in Sources */,
+				132E0E1A14136D330012C631 /* ThreeTableAppDelegate.m in Sources */,
+				132E0E1B14136D330012C631 /* ThreeTableViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FF12FF3813E3506F005BCBAF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		FF12FF3913E3506F005BCBAF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FF12FF3B13E3506F005BCBAF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "threetable/ThreeTableSplit-Prefix.pch";
+				INFOPLIST_FILE = "threetable/ThreeTableSplit-Info.plist";
+				PRODUCT_NAME = ThreeTableSplit;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FF12FF3C13E3506F005BCBAF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "threetable/ThreeTableSplit-Prefix.pch";
+				INFOPLIST_FILE = "threetable/ThreeTableSplit-Info.plist";
+				PRODUCT_NAME = ThreeTableSplit;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FF12FF1313E3506F005BCBAF /* Build configuration list for PBXProject "ThreeTableSplit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF12FF3813E3506F005BCBAF /* Debug */,
+				FF12FF3913E3506F005BCBAF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF12FF3A13E3506F005BCBAF /* Build configuration list for PBXNativeTarget "ThreeTableSplit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF12FF3B13E3506F005BCBAF /* Debug */,
+				FF12FF3C13E3506F005BCBAF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FF12FF1013E3506F005BCBAF /* Project object */;
+}

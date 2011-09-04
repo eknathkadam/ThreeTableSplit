@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	FF12FF1013E3506F005BCBAF /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FFFEDA8313E35F8200AB8966 /* threetable */;
+		activeTarget = FF12FF1813E3506F005BCBAF /* threetable */;
+		addToTargets = (
+			FF12FF1813E3506F005BCBAF /* threetable */,
+		);
+		codeSenseManager = FFFEDA9113E35FA400AB8966 /* Code sense */;
+		executables = (
+			FFFEDA8313E35F8200AB8966 /* threetable */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1489,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333668226;
+			PBXWorkspaceStateSaveDate = 333668226;
+		};
+		perUserProjectItems = {
+			FFFEDA9C13E361A200AB8966 /* PBXTextBookmark */ = FFFEDA9C13E361A200AB8966 /* PBXTextBookmark */;
+			FFFEDA9D13E361A200AB8966 /* PBXTextBookmark */ = FFFEDA9D13E361A200AB8966 /* PBXTextBookmark */;
+			FFFEDA9E13E361A200AB8966 /* PBXTextBookmark */ = FFFEDA9E13E361A200AB8966 /* PBXTextBookmark */;
+			FFFEDA9F13E361A200AB8966 /* PBXTextBookmark */ = FFFEDA9F13E361A200AB8966 /* PBXTextBookmark */;
+			FFFEDAA013E361A200AB8966 /* PBXTextBookmark */ = FFFEDAA013E361A200AB8966 /* PBXTextBookmark */;
+			FFFEDAA313E361A500AB8966 /* PBXTextBookmark */ = FFFEDAA313E361A500AB8966 /* PBXTextBookmark */;
+			FFFEDAB013E361AE00AB8966 /* PBXTextBookmark */ = FFFEDAB013E361AE00AB8966 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FFFEDA9013E35FA400AB8966 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FF12FF1813E3506F005BCBAF /* threetable */ = {
+		activeExec = 0;
+		executables = (
+			FFFEDA8313E35F8200AB8966 /* threetable */,
+		);
+	};
+	FF12FF2C13E3506F005BCBAF /* threetableAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 151}";
+		};
+	};
+	FF12FF2D13E3506F005BCBAF /* threetableAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 962}}";
+			sepNavSelRange = "{254, 0}";
+			sepNavVisRange = "{0, 2481}";
+		};
+	};
+	FF12FF3213E3506F005BCBAF /* threetableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 866}}";
+			sepNavSelRange = "{178, 0}";
+			sepNavVisRange = "{0, 335}";
+		};
+	};
+	FF12FF3313E3506F005BCBAF /* threetableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 1222}}";
+			sepNavSelRange = "{650, 0}";
+			sepNavVisRange = "{0, 1764}";
+		};
+	};
+	FFFEDA8313E35F8200AB8966 /* threetable */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = threetable;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FFFEDA9013E35FA400AB8966 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FFFEDA9113E35FA400AB8966 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FFFEDA9513E35FFC00AB8966 /* mainviewcontrolelr.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 866}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+	FFFEDA9613E35FFC00AB8966 /* mainviewcontrolelr.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 871}}";
+			sepNavSelRange = "{867, 0}";
+			sepNavVisRange = "{0, 1572}";
+		};
+	};
+	FFFEDA9C13E361A200AB8966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF12FF2C13E3506F005BCBAF /* threetableAppDelegate.h */;
+		name = "threetableAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 151;
+		vrLoc = 0;
+	};
+	FFFEDA9D13E361A200AB8966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF12FF3313E3506F005BCBAF /* threetableViewController.m */;
+		name = "threetableViewController.m: 28";
+		rLen = 0;
+		rLoc = 650;
+		rType = 0;
+		vrLen = 1764;
+		vrLoc = 0;
+	};
+	FFFEDA9E13E361A200AB8966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFFEDA9613E35FFC00AB8966 /* mainviewcontrolelr.m */;
+		name = "mainviewcontrolelr.m: 29";
+		rLen = 0;
+		rLoc = 867;
+		rType = 0;
+		vrLen = 1572;
+		vrLoc = 0;
+	};
+	FFFEDA9F13E361A200AB8966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF12FF3213E3506F005BCBAF /* threetableViewController.h */;
+		name = "threetableViewController.h: 10";
+		rLen = 0;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 335;
+		vrLoc = 0;
+	};
+	FFFEDAA013E361A200AB8966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FFFEDA9513E35FFC00AB8966 /* mainviewcontrolelr.h */;
+		name = "mainviewcontrolelr.h: 10";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	FFFEDAA313E361A500AB8966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF12FF2D13E3506F005BCBAF /* threetableAppDelegate.m */;
+		name = "threetableAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+	FFFEDAB013E361AE00AB8966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF12FF2D13E3506F005BCBAF /* threetableAppDelegate.m */;
+		name = "threetableAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 2481;
+		vrLoc = 0;
+	};
+}
